@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+/* Partes do Header: */
+
+header{
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(71, 71, 71, 0.116);
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    align-items: center;
+    justify-content:space-around;
+}
+header img{ 
+    width: 130px;
+    filter: invert(100%);
+}
+header li, header li a{
+    margin: 7px;
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+/* Sections e Body */
+
+body{
+    background-color: #131313;
+    color: white;
+}
+
+/* Section 01 */
+
+.principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+}
+.texts{
+    margin-left: 300px;
+}
+.texts h1{
+    font-size: 5em;
+    line-height: 90px;
+}
+.texts h1 span{
+    color: rgb(214, 211, 25);
+}
+.texts h3{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 200;
+    max-width: 900px;
+}
+.image img{
+    margin-top: 100px;
+    margin-bottom: -4px;
+    width: 70%;
+}
+
+/* Section 02 */
+
+.section_2{
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #131313;
+}
+.section_2 h1{
+    font-size: 40px;
+    margin-bottom: 80px;
+}
+.section_2 h1 span{
+    color: rgb(148, 20, 20);
+}
+.section_2 img{
+    margin-bottom: 180px;
+    border-radius: 20px;
+}
