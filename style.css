@@ -22,11 +22,15 @@ header img{
     filter: invert(100%);
 }
 header li, header li a{
-    margin: 7px;
+    margin: 9px;
     color: white;
     display: inline-block;
     list-style-type: none;
     text-decoration: none;
+    transition: .8s;
+}
+header li, header li a:hover{
+    color: #c2bf21;
 }
 
 /* Sections e Body */
