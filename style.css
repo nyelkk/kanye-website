@@ -61,15 +61,14 @@ body{
 }
 .texts h3{
     margin-top: 10px;
-    font-size: 30px;
+    font-size: 1.5rem;
     font-weight: 200;
-    max-width: 900px;
 }
 .image img{
     margin-top: 100px;
     margin-bottom: -4px;
-    width: 70%;
-    min-width: 500px;
+    width: 80%;
+    min-width: 327px;
 }
 
 /* Section 02 */
