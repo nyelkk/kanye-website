@@ -6,31 +6,16 @@
  <img src="https://www.billboard.com/wp-content/uploads/media/kanye-west-thumbs-up-mtv-vmas-red-carpet-2016-billboard-1548.jpg" width="600px"> 
 
 > Site feito com intuito de treino de HTML e CSS. Não tem responsividade (ainda).
-<div>
-
-  <a href="https://ye-site.vercel.app/"><h3>Site no Vercel.</h3></a>
-
-  <p>
-    <br>
-    <a href="https://github.com/nyelkk/YE_site/blob/main/index.html"><strong>HTML Doc</strong></a>
-    <br />
-    <a href="https://ye-site.vercel.app/">Demo Version</a>
-    ·
-  </p>
-</div>
-<img src="![image](https://github.com/nyelkk/Kanye-LandingPage/assets/123602429/e78d71be-0b94-4528-ba92-0d01c291f1c1)">
+  <div>
+   <a href="https://ye-site.vercel.app/"><h3>Site no Vercel.</h3></a>
+   <p>
+     <a href="https://github.com/nyelkk/YE_site/blob/main/index.html"><strong>HTML Doc</strong></a>
+     <br>
+   </p>
+  </div>
+    <img src="![image](https://github.com/nyelkk/Kanye-LandingPage/assets/123602429/e78d71be-0b94-4528-ba92-0d01c291f1c1)">
+  <h1>Preview:</h1>
 <br>
-  <h1>Tecnologias usadas na Landing Page:</h1>
 
-  <ul>
-    <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <span>(HTML 5, CSS 3)</span>
-  </ul>
-      <h1>Tecnologias usadas na Landing Page:</h1>
-
-  <ul>
-    <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <span>(HTML 5, CSS 3)</span>
-  </ul>
+  
+![Ye Page](https://github.com/nyelkk/Kanye-LandingPage/assets/123602429/8f7e4ec2-e9ff-4a63-acb0-cb50f8793680)
