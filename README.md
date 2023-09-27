@@ -1,9 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="![image](https://github.com/nyelkk/YE_site/assets/123602429/f199c2fb-ae63-4235-ae0e-87dbaa640887)" alt="Logo" width="80" height="80">
-  </a>
-
+<kbd> <img width="500px" src="[https://img.youtube.com/vi/42TShjXR0m0/maxresdefault.jpg](https://www.billboard.com/wp-content/uploads/media/kanye-west-thumbs-up-mtv-vmas-red-carpet-2016-billboard-1548.jpg)"> </kbd>
   <h3 align="center">Ye Page</h3>
 
   <p align="center">
