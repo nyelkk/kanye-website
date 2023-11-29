@@ -11,8 +11,8 @@
 
 Por ser mais puxado pro lado das Landing Pages, o site não apresenta muitas funcionalidades.
 
-- `O usuário navega pelos cards das músicas através da Nav Bar`
-- `O ícone na Nav leva para o perfil do artista no Spotify`
+- `O usuário consegue acessar alguns álbuns do artista pela Nav do Header.`
+- `O ícone na Nav leva para o perfil do artista no Spotify.`
 
 ## 🚀 Informações sobre responsividade:
 
